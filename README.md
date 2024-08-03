@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deviprasad Shetty</h1>
 <h3 align="center">A passionate Developer from Kundapura,Karnataka</h3>
 
+
 - 🌱 I’m currently learning **django,Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/redmoon0x](https://github.com/redmoon0x)
